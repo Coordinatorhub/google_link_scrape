@@ -4,7 +4,7 @@ require 'scraperwiki'
 require 'nokogiri'   
  
 #query = URI.escape("link:www.stedaniels.co.uk")
-query="test"
+query="3d printer"
 
 data = []
 
